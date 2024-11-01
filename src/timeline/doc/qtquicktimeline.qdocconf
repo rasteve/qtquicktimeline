@@ -48,3 +48,6 @@ navigation.qmltypespage = "Qt Quick Timeline QML Types"
 # Auto-generate navigation linking based on "Qt Quick Timeline module topics":
 navigation.toctitles = "Qt Quick Timeline module topics"
 navigation.toctitles.inclusive = false
+
+# Allow zero warnings when testing documentation in CI
+warninglimit = 0
